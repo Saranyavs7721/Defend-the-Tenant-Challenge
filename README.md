@@ -36,7 +36,7 @@ Endpoint security: Intune, Defender for Endpoint, BitLocker, Windows LAPS, vulne
 Automated threat response: Defender XDR, email protection, automated investigation, attack disruption, and incident response runbooks.
 Data protection and resilience: Sensitivity labels, DLP, retention, versioning, and tested recovery.
 
-The complete recommendations, rollout approach, trade-offs, success measurements, and roadmap are available in Microsoft_365_Security_Hardening_Plan.docx.
+The complete recommendations, rollout approach, trade-offs, success measurements, and roadmap are available in Microsoft 365 Security Hardening Plan.docx.
 
 Repository Files: hardening-results.txt: Phase 1 assessment evidence, Microsoft 365 Security Hardening Plan.docx: Phase 2 security hardening plan, README.md: Project overview
 
