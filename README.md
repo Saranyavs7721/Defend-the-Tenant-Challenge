@@ -9,6 +9,7 @@ This project consists of two phases:
 
 **Phase 1:** Implement and assess 10 Microsoft 365 security controls.
 **Phase 2:** Develop a prioritized security plan for a 100-user organization with two administrators and Microsoft 365 E7 licenses.
+
 **Phase 1: Implementation and Assessment**
 
 The following controls were implemented and assessed:
